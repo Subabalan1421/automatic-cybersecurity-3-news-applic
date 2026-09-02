@@ -1,0 +1,5 @@
+cyberglow-pwa/
+├── index.html        (Main UI & layout)
+├── app.js            (Data fetching, caching & online/offline sync)
+├── sw.js             (Service Worker for offline support)
+└── manifest.json     (PWA configuration for installation)
